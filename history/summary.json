@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 152,
-    "timeDay": 83,
-    "timeWeek": 216,
-    "timeMonth": 160,
-    "timeYear": 152,
+    "time": 151,
+    "timeDay": 109,
+    "timeWeek": 133,
+    "timeMonth": 159,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2023-10-30": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 109,
-    "timeDay": 123,
-    "timeWeek": 111,
-    "timeMonth": 108,
-    "timeYear": 109,
+    "time": 110,
+    "timeDay": 130,
+    "timeWeek": 116,
+    "timeMonth": 109,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2023-10-30": 23
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ksvblog.github.io.ico",
     "slug": "k-s-v-blog-github",
     "status": "up",
-    "uptime": "96.81%",
+    "uptime": "96.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.81%",
-    "time": 124,
-    "timeDay": 107,
-    "timeWeek": 51,
+    "uptimeYear": "96.85%",
+    "time": 123,
+    "timeDay": 46,
+    "timeWeek": 50,
     "timeMonth": 76,
-    "timeYear": 124,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2023-09-25": 895,
       "2023-09-24": 988,
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 96,
-    "timeDay": 103,
+    "time": 95,
+    "timeDay": 48,
     "timeWeek": 65,
-    "timeMonth": 86,
-    "timeYear": 96,
+    "timeMonth": 87,
+    "timeYear": 95,
     "dailyMinutesDown": {
       "2023-09-23": 63
     }
