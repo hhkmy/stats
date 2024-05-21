@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 152,
-    "timeDay": 166,
-    "timeWeek": 163,
-    "timeMonth": 154,
+    "timeDay": 115,
+    "timeWeek": 158,
+    "timeMonth": 155,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2023-10-30": 23
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 129,
-    "timeWeek": 169,
-    "timeMonth": 129,
+    "timeDay": 105,
+    "timeWeek": 161,
+    "timeMonth": 128,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2023-10-30": 23
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.80%",
-    "time": 112,
-    "timeDay": 45,
+    "time": 111,
+    "timeDay": 39,
     "timeWeek": 72,
-    "timeMonth": 68,
-    "timeYear": 112,
+    "timeMonth": 69,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2023-09-25": 895,
       "2023-09-24": 988,
@@ -70,17 +70,16 @@
     "slug": "k-s-v-blog-netlify",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 123,
-    "timeDay": 809,
-    "timeWeek": 333,
+    "timeDay": 792,
+    "timeWeek": 307,
     "timeMonth": 151,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-20": 6,
       "2023-09-23": 63
     }
   }
