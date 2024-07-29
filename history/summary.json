@@ -1,6 +1,27 @@
 [
   {
     "name": "K's V/Blog",
+    "url": "https://hhk.my.id",
+    "icon": "https://icons.duckduckgo.com/ip3/hhk.my.id.ico",
+    "slug": "k-s-v-blog",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 159,
+    "timeDay": 133,
+    "timeWeek": 188,
+    "timeMonth": 169,
+    "timeYear": 159,
+    "dailyMinutesDown": {
+      "2024-07-29": 0,
+      "2023-10-30": 23
+    }
+  },
+  {
+    "name": "K's V/Blog",
     "url": "https://ksvblog.site",
     "icon": "https://icons.duckduckgo.com/ip3/ksvblog.site.ico",
     "slug": "k-s-v-blog",
@@ -10,12 +31,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 160,
-    "timeDay": 138,
-    "timeWeek": 205,
-    "timeMonth": 172,
-    "timeYear": 160,
+    "time": 159,
+    "timeDay": 133,
+    "timeWeek": 188,
+    "timeMonth": 169,
+    "timeYear": 159,
     "dailyMinutesDown": {
+      "2024-07-29": 0,
       "2023-10-30": 23
     }
   },
@@ -31,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 143,
-    "timeWeek": 152,
-    "timeMonth": 126,
+    "timeDay": 117,
+    "timeWeek": 144,
+    "timeMonth": 124,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2023-10-30": 23
@@ -51,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
     "time": 112,
-    "timeDay": 203,
-    "timeWeek": 123,
-    "timeMonth": 100,
+    "timeDay": 130,
+    "timeWeek": 115,
+    "timeMonth": 98,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-09-25": 895,
@@ -75,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 334,
-    "timeWeek": 122,
-    "timeMonth": 125,
+    "timeDay": 199,
+    "timeWeek": 115,
+    "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-09-23": 63
