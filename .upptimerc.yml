@@ -4,6 +4,8 @@ repo: stats
 
 sites:
   - name: K's V/Blog
+    url: https://hhk.my.id
+  - name: K's V/Blog
     url: https://ksvblog.site
   - name: K's V/Blog (Cloudflare)
     url: https://ksvblog.pages.dev
@@ -13,9 +15,9 @@ sites:
     url: https://ksvblog.netlify.app
 
 status-website:
-  cname: stats.ksvblog.site
-  favicon: https://raw.githubusercontent.com/h2kyaw/stats/master/assets/logo.svg
-  logoUrl: https://raw.githubusercontent.com/h2kyaw/stats/master/assets/logo.svg
+  cname: stats.hhk.my.id
+  favicon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/logo.svg
+  logoUrl: https://raw.githubusercontent.com/ksvblog/stats/master/assets/logo.svg
   name: Stats
   introTitle: "**Upptime** stats pages for K's V/Blog. :)"
   introMessage: Welcome to our website! We're up and running, ready to provide you with valuable statistics and insights. Explore with confidence!
@@ -23,7 +25,7 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://ksvblog.site
+      href: https://hhk.my.id
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
       
