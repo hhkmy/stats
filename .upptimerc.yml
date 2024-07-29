@@ -5,7 +5,7 @@ repo: stats
 sites:
   - name: K's V/Blog
     url: https://hhk.my.id
-  - name: K's V/Blog
+  - name: K's V/Blog (Old)
     url: https://ksvblog.site
   - name: K's V/Blog (Cloudflare)
     url: https://ksvblog.pages.dev
