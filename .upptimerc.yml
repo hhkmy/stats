@@ -22,8 +22,8 @@ sites:
 
 status-website:
   cname: stats.hhk.my.id
-  favicon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/logo.svg
-  logoUrl: https://raw.githubusercontent.com/ksvblog/stats/master/assets/logo.svg
+  favicon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/upptime-icon.svg
+  logoUrl: https://raw.githubusercontent.com/ksvblog/stats/master/assets/upptime-icon.svg
   name: Stats
   introTitle: "**Upptime** stats pages for K's V/Blog. :)"
   introMessage: Welcome to our website! We're up and running, ready to provide you with valuable statistics and insights. Explore with confidence!
