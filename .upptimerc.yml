@@ -3,8 +3,6 @@ owner: ksvblog
 repo: stats
 
 sites:
-  - name: K's V/Blog
-    url: https://hhk.my.id
   - name: HHK (Short B/Vlogs)
     url: https://hhk.my.id
   - name: K's V/Blog (Old)
@@ -15,6 +13,12 @@ sites:
     url: https://ksvblog.github.io
   - name: K's V/Blog (Netlify)
     url: https://ksvblog.netlify.app
+  - name: K's V/Blog (Netlify)
+    url: https://ksvblog.netlify.app
+  - name: Benchmark web pages over time.
+    url: https://speedlify.hhk.my.id
+  - name: Upptime stats pages
+    url: https://stats.hhk.my.id
 
 status-website:
   cname: stats.hhk.my.id
