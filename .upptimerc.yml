@@ -5,6 +5,8 @@ repo: stats
 sites:
   - name: HHK (Short B/Vlogs)
     url: https://hhk.my.id
+  - name: HHK (Short B/Vlogs)
+    url: https://hhk.my.id
   - name: K's V/Blog (Old)
     url: https://ksvblog.site
   - name: K's V/Blog (Cloudflare)
