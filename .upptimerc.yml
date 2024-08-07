@@ -5,20 +5,28 @@ repo: stats
 sites:
   - name: HHK (Short B/Vlogs)
     url: https://hhk.my.id
+    icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
   - name: K's V/Blog (Old)
     url: https://ksvblog.site
+    icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
   - name: K's V/Blog (Cloudflare)
     url: https://ksvblog.pages.dev
+    icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
   - name: K's V/Blog (Github)
     url: https://ksvblog.github.io
+    icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
   - name: K's V/Blog (Netlify)
     url: https://ksvblog.netlify.app
+    icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
   - name: K's V/Blog (Netlify)
     url: https://ksvblog.netlify.app
+    icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
   - name: Benchmark
     url: https://speedlify.hhk.my.id
+    icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/Speedlify.svg
   - name: Upptime
     url: https://stats.hhk.my.id
+    icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/upptime-icon.svg
 
 status-website:
   cname: stats.hhk.my.id
