@@ -30,7 +30,7 @@ status-website:
   favicon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/upptime-icon.svg
   logoUrl: https://raw.githubusercontent.com/ksvblog/stats/master/assets/upptime-icon.svg
   name: Up and Down
-  introTitle: "**Upptime** stats pages for [K's V/Blog](https://hhk.my.id "Personal Journey ~") :)"
+  introTitle: "**Up and Down** stats pages for K's V/Blog :)"
   introMessage: Welcome to our website! We're up and running, ready to provide you with valuable statistics and insights. Explore with confidence!
   navbar:
     - title: Status
