@@ -6,9 +6,6 @@ sites:
   - name: HHK (Short B/Vlogs)
     url: https://hhk.my.id
     icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
-  - name: K's V/Blog (Old)
-    url: https://ksvblog.site
-    icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
   - name: K's V/Blog (Cloudflare)
     url: https://ksvblog.pages.dev
     icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
@@ -32,8 +29,8 @@ status-website:
   cname: stats.hhk.my.id
   favicon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/upptime-icon.svg
   logoUrl: https://raw.githubusercontent.com/ksvblog/stats/master/assets/upptime-icon.svg
-  name: Stats
-  introTitle: "**Upptime** stats pages for K's V/Blog. :)"
+  name: Up and Down
+  introTitle: "**Upptime** stats pages for [K's V/Blog](https://hhk.my.id "Personal Journey ~") :)"
   introMessage: Welcome to our website! We're up and running, ready to provide you with valuable statistics and insights. Explore with confidence!
   navbar:
     - title: Status
