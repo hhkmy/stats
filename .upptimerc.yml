@@ -3,9 +3,8 @@ owner: hhkmy
 repo: stats
 
 sites:
-  - name: HHK - B/Vlogs
+  - name: HHK
     url: https://hhk.my.id
-    slug: hhk
     icon: https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg
   - name: Benchmark
     url: https://speedlify.hhk.my.id
