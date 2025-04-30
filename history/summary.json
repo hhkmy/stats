@@ -4,19 +4,19 @@
     "url": "https://hhk.my.id",
     "icon": "https://raw.githubusercontent.com/ksvblog/stats/master/assets/HHK_KSVBlog.svg",
     "slug": "hhk",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 334,
-    "timeDay": 380,
-    "timeWeek": 409,
-    "timeMonth": 364,
-    "timeYear": 334,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.92%",
+    "time": 336,
+    "timeDay": 439,
+    "timeWeek": 425,
+    "timeMonth": 370,
+    "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-04-30": 14
+      "2025-04-30": 94
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 290,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-04-30": 83,
+      "2025-04-30": 164,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
