@@ -24,18 +24,20 @@
     "url": "https://speedlify.hhk.my.id",
     "icon": "https://raw.githubusercontent.com/ksvblog/stats/master/assets/Speedlify.svg",
     "slug": "benchmark",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 409,
-    "timeWeek": 535,
-    "timeMonth": 427,
-    "timeYear": 350,
-    "dailyMinutesDown": {}
+    "time": 349,
+    "timeDay": 312,
+    "timeWeek": 495,
+    "timeMonth": 417,
+    "timeYear": 349,
+    "dailyMinutesDown": {
+      "2025-07-24": 0
+    }
   },
   {
     "name": "Read - Reading Contents",
@@ -54,7 +56,7 @@
     "timeMonth": 234,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-07-24": 103,
+      "2025-07-24": 568,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
