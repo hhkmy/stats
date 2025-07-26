@@ -56,7 +56,7 @@
     "timeMonth": 234,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-07-26": 100,
+      "2025-07-26": 1367,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -234,17 +234,19 @@
     "url": "https://stats.hhk.my.id",
     "icon": "https://raw.githubusercontent.com/ksvblog/stats/master/assets/upptime-icon.svg",
     "slug": "stats-uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 326,
-    "timeWeek": 267,
-    "timeMonth": 274,
+    "timeDay": 269,
+    "timeWeek": 260,
+    "timeMonth": 271,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-26": 0
+    }
   }
 ]
